@@ -87,6 +87,9 @@ Sau đó, truy cập `http://localhost:1313` trên trình duyệt của bạn.
 Workshop này được phân phối dưới Giấy phép MIT. Xem file `LICENSE` để biết thêm thông tin.
 
 ## 📬 Liên hệ
+Tác giả: Hayden - Lê Nguyễn Vũ Hoàng
+
+Email: [vuhoangdz2003@gmail.com]
 
 Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng tạo issue hoặc liên hệ trực tiếp với tôi.
 
