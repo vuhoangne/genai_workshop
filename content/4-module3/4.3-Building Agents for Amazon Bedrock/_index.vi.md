@@ -30,7 +30,7 @@ Trong module này, chúng ta sẽ tạo một **Agent Kiến trúc sư Giải ph
 
 - Nhấp vào **Save** ở trên cùng.
 
-![agents](/images/4-module3/agents.png)
+![agents](/images/4-module3/agents.png?width=90pc)
 
 ---
 
@@ -51,7 +51,7 @@ Trong module này, chúng ta sẽ tạo một **Agent Kiến trúc sư Giải ph
      - Chọn tệp `agent_bedrock_schema.json`
      - Nhấp vào **Choose**, sau đó nhấp vào **Create**
 
-![agents](/images/4-module3/agents1.png)
+![agents](/images/4-module3/agents1.png?width=90pc)
 
 ---
 
@@ -67,7 +67,7 @@ Bây giờ chúng ta sẽ thêm **Knowledge Base** mà chúng ta đã tạo trư
 
 4. Nhấp vào **Add** để hoàn tất.
 
-![agents](/images/4-module3/agents2.png)
+![agents](/images/4-module3/agents2.png?width=90pc)
 
 ---
 
@@ -84,15 +84,16 @@ Ví dụ:
 
 Khi Agent trả lời, nhấp vào **Show trace** để xem các bước mà nó đã thực hiện để tạo ra câu trả lời.
 
-![agents](/images/4-module3/agents3.png)
+![agents](/images/4-module3/agents3.png?width=90pc)
 
 Bạn cũng có thể kiểm tra hành động đọc bản ghi bằng cách hỏi:
 
 - `Bạn có thể giúp tôi với nhiệm vụ xử lý dữ liệu để lấy số lượng bản ghi trong cơ sở dữ liệu sản xuất?`
 
-![agents](/images/4-module3/agents4.png)
+![agents](/images/4-module3/agents4.png?width=90pc)
 
 ---
 {{% notice info %}}
 ⚠️ Có vẻ như chúng ta gặp phải lỗi. Đừng lo lắng—điều này là có chủ đích, và chúng ta sẽ sửa nó trong phần tiếp theo bằng cách sử dụng **Amazon Q** để gỡ lỗi hàm.
 {{% /notice %}}
+

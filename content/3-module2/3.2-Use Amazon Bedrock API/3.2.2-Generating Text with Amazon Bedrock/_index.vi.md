@@ -22,7 +22,7 @@ Trong mô-đun này, chúng ta sẽ khám phá cách sử dụng **Amazon Bedroc
 📝 Để bắt đầu, chúng ta sẽ cập nhật một script để chạy các ví dụ tạo văn bản. Trong Visual Studio Code IDE của bạn, hãy mở file:  
 `text_examples/gen_text.py`
 
-![genimage](/images/3-module2/text1.png)
+![genimage](/images/3-module2/text1.png?width=90pc)
 
 🔧 Ở đây chúng ta có mã gọi đến các mô hình khác nhau, nhưng thiếu logic để mã hoạt động. Đây là lúc bạn có thể sử dụng **Amazon Q Developer** để biến ý tưởng thành mã có thể chạy được.
 
@@ -48,7 +48,7 @@ Trong mô-đun này, chúng ta sẽ khám phá cách sử dụng **Amazon Bedroc
 python3 text_examples/gen_text.py
 ```
 
-![genimage](/images/3-module2/text2.png)
+![genimage](/images/3-module2/text2.png?width=90pc)
 
 📄 Đoạn văn bản bạn sẽ làm việc với nằm ở dòng 113.
 
@@ -63,7 +63,8 @@ python3 text_examples/gen_text.py
 python3 text_examples/gen_text.py
 ```
 
-![genimage](/images/3-module2/text3.png)
+![genimage](/images/3-module2/text3.png?width=90pc)
 
 ✅ Tổng Kết
 🎉 Giờ bạn đã có cái nhìn tổng quan về cách sử dụng Amazon Bedrock để xử lý văn bản, hãy cùng khám phá cách sử dụng nó cho các tác vụ video tiếp theo!
+

@@ -47,7 +47,7 @@ To complete the video formatting functionality:
 Finish the TODO and return the correct data
 ```
 
-![vid1](/images/3-module2/vid1.png)
+![vid1](/images/3-module2/vid1.png?width=90pc)
 
 ---
 
@@ -70,7 +70,7 @@ If you encounter errors, use **Amazon Q Developer** to help debug the issues.
 full_code/video_understanding_full.py
 ```
 
-![vid2](/images/3-module2/vid2.png)
+![vid2](/images/3-module2/vid2.png?width=90pc)
 
 ---
 
@@ -95,3 +95,4 @@ Now that you've gained experience using **Amazon Bedrock** for **video understan
 > **Chatting with your documents** 🗂️
 
 This next section will build on what you've learned and show you how to create **interactive experiences with document-based content**.
+

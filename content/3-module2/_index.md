@@ -48,7 +48,7 @@ Before building with Amazon Bedrock, you need to **grant model access** to your 
 
 4. Click **Request model access** to finalize activation
 
-![module2](/images/3-module2/module3.png)
+![module2](/images/3-module2/module3.png?width=90pc)
 
 ---
 
@@ -67,3 +67,4 @@ Before building with Amazon Bedrock, you need to **grant model access** to your 
 {{% notice info %}}
 You have successfully configured **Amazon Bedrock**!
 {{% /notice %}}
+

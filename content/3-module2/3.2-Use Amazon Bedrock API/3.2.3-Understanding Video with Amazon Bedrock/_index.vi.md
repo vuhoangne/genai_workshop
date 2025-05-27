@@ -47,7 +47,7 @@ Tệp này đã chứa mã để nhập video và gửi yêu cầu đến Amazon
 Finish the TODO and return the correct data
 ```
 
-![vid1](/images/3-module2/vid1.png)
+![vid1](/images/3-module2/vid1.png?width=90pc)
 
 ---
 
@@ -70,7 +70,7 @@ Nếu gặp lỗi, hãy sử dụng **Amazon Q Developer** để giúp gỡ lỗ
 full_code/video_understanding_full.py
 ```
 
-![vid2](/images/3-module2/vid2.png)
+![vid2](/images/3-module2/vid2.png?width=90pc)
 
 ---
 
@@ -95,3 +95,4 @@ Giờ đây bạn đã có kinh nghiệm sử dụng **Amazon Bedrock** để **
 > **Trò chuyện với tài liệu của bạn** 🗂️
 
 Phần tiếp theo này sẽ dựa trên những gì bạn đã học và chỉ cho bạn cách tạo **trải nghiệm tương tác với nội dung dựa trên tài liệu**.
+

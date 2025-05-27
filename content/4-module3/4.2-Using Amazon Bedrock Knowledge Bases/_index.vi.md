@@ -21,27 +21,27 @@ Trong module này, chúng ta sẽ tạo một Knowledge Base sử dụng một p
 
 1. Truy cập [Knowledge Base Console](https://us-west-2.console.aws.amazon.com/bedrock/home?region=us-west-2#/knowledge-bases).
 
-![Create](/images/4-module3/create.png)
+![Create](/images/4-module3/create.png?width=90pc)
 
 2. Nhấn nút **Create** (màu cam) và chọn **Knowledge Base with vector store**.
 
-![Create](/images/4-module3/create1.png)
+![Create](/images/4-module3/create1.png?width=90pc)
 
 3. Đặt tên mặc định hoặc nhập tên tùy ý → Nhấn **Next**.
 
-![Create](/images/4-module3/create2.png)
+![Create](/images/4-module3/create2.png?width=90pc)
 
 4. Nhấn **Browse S3**, chọn bucket có tên chứa **awsdocsbucket** → Nhấn **Next**.
 
-![Create](/images/4-module3/create3.png)
+![Create](/images/4-module3/create3.png?width=90pc)
 
 5. Chọn **Titan Embeddings V2** làm mô hình embedding → Để mặc định Vector store → Nhấn **Next**.
 
-![Create](/images/4-module3/create4.png)
+![Create](/images/4-module3/create4.png?width=90pc)
 
 6. Cuộn xuống và chọn **Create Knowledge Base**.
 
-![Create](/images/4-module3/create5.png)
+![Create](/images/4-module3/create5.png?width=90pc)
 
 > ⏳ Việc tạo Knowledge Base mất vài phút. Đừng rời khỏi trang này.
 
@@ -55,7 +55,7 @@ Khi Knowledge Base đã sẵn sàng, bạn có thể thử ngay trong giao diệ
 
 1. Nhấn **Sync** để đồng bộ dữ liệu (mất khoảng 1 phút).
 
-![Sync](/images/4-module3/sync.png)
+![Sync](/images/4-module3/sync.png?width=90pc)
 
 2. Nhấn **Select Model**, chọn **Amazon Nova Pro** → Nhấn **Apply**.
 3. Nhập câu hỏi trong khung **Enter your message here**, ví dụ:
@@ -64,7 +64,7 @@ Khi Knowledge Base đã sẵn sàng, bạn có thể thử ngay trong giao diệ
 
 > 🧠 Hãy thử nhiều câu hỏi khác để khám phá thêm!
 
-![test](/images/4-module3/test2.png)
+![test](/images/4-module3/test2.png?width=90pc)
 
 ---
 
@@ -80,7 +80,7 @@ Bạn cũng có thể truy vấn qua API với 2 phương thức:
 1. Mở file `rag_examples/kb_rag.py` trong IDE.
 2. Cập nhật biến `KB_ID` với ID của Knowledge Base (xem trong phần Overview).
 
-![test](/images/4-module3/test3.png)
+![test](/images/4-module3/test3.png?width=90pc)
 
 3. Chạy lệnh:
 
@@ -91,11 +91,12 @@ python3 rag_examples/kb_rag.py
 
 > ✅ Mã lệnh đang thực hiện quy trình RAG: chuyển câu hỏi thành embedding, truy xuất tài liệu liên quan, và trả lời bằng mô hình.
 
-![test](/images/4-module3/test4.png)
+![test](/images/4-module3/test4.png?width=90pc)
 
 ---
 
 ## 🎯 Wrap up
 
 Sau khi đã tạo Knowledge Base, bước tiếp theo sẽ là **nhúng Knowledge Base này vào một Amazon Bedrock Agent** để xây dựng hệ thống phản hồi tự động thông minh hơn.
+
 

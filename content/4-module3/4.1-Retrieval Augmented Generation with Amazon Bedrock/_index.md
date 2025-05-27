@@ -7,7 +7,7 @@ pre: " <b> 4.1. </b> "
 
 Before diving into the RAG workflow, it's important to understand **embeddings**. Embeddings represent documents as vectors in a multi-dimensional space. These vectors capture the essence of the content in a format that machines can process. By converting text into embeddings, we enable computers to "understand" and compare different text passages based on their contextual similarity.
 
-![embed](/images/4-module3/embed1.png)
+![embed](/images/4-module3/embed1.png?width=90pc)
 
 ## 🧮 Embedding Visualization
 
@@ -93,7 +93,7 @@ return result
 🧪 Try changing the query at line 109. For example:
 - try `What city do I work in?`
 
-![rag](/images/4-module3/rag.png)
+![rag](/images/4-module3/rag.png?width=90pc)
 
 ## 📄 Exercise 2: Chat with a PDF
 There is also an example of how you chat with a PDF. Inside `rag_examples/chat_with_pdf.py` we have the `chunk_doc_to_text` function that will ingest the PDF and chunk every 1000 characters to store in the vector database. This process can take a while depending on the server, so we have already chunked the data which is stored in the folder `local_index`.
@@ -113,8 +113,9 @@ python3 rag_examples/chat_with_pdf.py
 
 💡 You can even try off-topic questions such as `what are popular ice cream flavors` to see how the model handles questions outside the context.
 
-![rag](/images/4-module3/rag1.png)
+![rag](/images/4-module3/rag1.png?width=90pc)
 
 ## 🏁 Wrap up
 
 🎉 Now that you have gotten a taste of using Amazon Bedrock for RAG, let's explore how we can create scalable RAG workflows.
+

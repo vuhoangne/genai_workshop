@@ -64,3 +64,4 @@ To avoid incurring unnecessary charges, follow the steps below to delete all the
 2. On the **Stacks** page, select the stack: `gen-ai-workshop-cfn`.
 3. In the details pane, choose **Delete**.
 4. Confirm by selecting **Delete stack** when prompted.
+

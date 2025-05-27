@@ -41,7 +41,7 @@ Build an app that allows users to:
 
 The final app will look like this: **Gen Image App**
 
-![genimage](/images/3-module2/imagegen1.png)
+![genimage](/images/3-module2/imagegen1.png?width=90pc)
 
 ### 🧱 Getting Started
 
@@ -66,7 +66,7 @@ Can you add the following to my application:
 
 ```
 
-![genimage](/images/3-module2/gen1.png)
+![genimage](/images/3-module2/gen1.png?width=90pc)
 
 Amazon Q Developer will process the request and provide updated code for the file.
 
@@ -80,7 +80,7 @@ To understand code functionality:
 
 Q Developer will return a detailed explanation of the code.
 
-![genimage](/images/3-module2/gen2.png)
+![genimage](/images/3-module2/gen2.png?width=90pc)
 
 ---
 
@@ -113,7 +113,7 @@ streamlit run image_examples/image_gen_st.py
 For the next exercise, we will **edit images using a prompt**.  
 📌 You can save one of the images you've created or use the image below for practice.
 
-![genimage](/images/3-module2/cat_water_4.png)
+![genimage](/images/3-module2/cat_water_4.png?width=90pc)
 
 ---
 
@@ -140,7 +140,7 @@ image_examples/image_to_image_st.py
 - 🧠 `Get a user prompt to modify the image`
 
 
-![genimage](/images/3-module2/code.png)
+![genimage](/images/3-module2/code.png?width=90pc)
 
 ---
 
@@ -159,7 +159,7 @@ image_examples/image_to_image_st.py
 
 {{% /notice %}}
 
-![genimage](/images/3-module2/cat_mane.png)
+![genimage](/images/3-module2/cat_mane.png?width=90pc)
 
 ---
 
@@ -245,7 +245,7 @@ full_code/image_understanding_st_full.py
 ```
 
 
-![genimage](/images/3-module2/code2.png)
+![genimage](/images/3-module2/code2.png?width=90pc)
 
 ---
 
@@ -261,7 +261,7 @@ streamlit run image_examples/image_understanding_st.py
 
 📌 Click the button you created and try with different images!
 
-![genimage](/images/3-module2/imagegen2.png)
+![genimage](/images/3-module2/imagegen2.png?width=90pc)
 
 ---
 
@@ -269,3 +269,4 @@ streamlit run image_examples/image_understanding_st.py
 
 🎉 Now you know how to use **Amazon Bedrock** to generate and edit images.  
 🚀 Next, we’ll explore how to use this tool for **text generation tasks**!
+

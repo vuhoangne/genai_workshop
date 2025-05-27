@@ -7,7 +7,7 @@ pre: " <b> 4.1. </b> "
 
 Trước khi đi sâu vào quy trình RAG, điều quan trọng là phải hiểu về **embeddings**. Embeddings biểu diễn tài liệu dưới dạng các vector trong không gian đa chiều. Các vector này nắm bắt bản chất của nội dung ở định dạng mà máy tính có thể xử lý. Bằng cách chuyển đổi văn bản thành embeddings, chúng ta cho phép máy tính "hiểu" và so sánh các đoạn văn bản khác nhau dựa trên sự tương đồng về ngữ cảnh của chúng.
 
-![embed](/images/4-module3/embed1.png)
+![embed](/images/4-module3/embed1.png?width=90pc)
 
 ## 🧮 Trực quan hóa Embedding
 
@@ -93,7 +93,7 @@ return result
 🧪 Thử thay đổi truy vấn ở dòng 109. Ví dụ:
 - thử `What city do I work in?`
 
-![rag](/images/4-module3/rag.png)
+![rag](/images/4-module3/rag.png?width=90pc)
 
 ## 📄 Bài tập 2: Trò chuyện với PDF
 Có một ví dụ khác về cách trò chuyện với PDF. Trong `rag_examples/chat_with_pdf.py`, chúng ta có hàm `chunk_doc_to_text` sẽ tiếp nhận PDF và chia nhỏ mỗi 1000 ký tự để lưu trữ trong cơ sở dữ liệu vector. Quá trình này có thể mất một thời gian tùy thuộc vào máy chủ, vì vậy chúng tôi đã chia nhỏ dữ liệu được lưu trữ trong thư mục `local_index`.
@@ -113,8 +113,9 @@ python3 rag_examples/chat_with_pdf.py
 
 💡 Bạn thậm chí có thể thử các câu hỏi ngoài chủ đề như `what are popular ice cream flavors` để xem mô hình xử lý các câu hỏi ngoài ngữ cảnh như thế nào.
 
-![rag](/images/4-module3/rag1.png)
+![rag](/images/4-module3/rag1.png?width=90pc)
 
 ## 🏁 Tổng kết
 
 🎉 Giờ đây bạn đã có cái nhìn tổng quan về việc sử dụng Amazon Bedrock cho RAG, hãy cùng khám phá cách tạo quy trình RAG có thể mở rộng.
+

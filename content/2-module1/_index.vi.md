@@ -16,7 +16,7 @@ pre: " <b> 2. </b> "
 - 🎮 Tạo và chơi trò chơi đố vui trực tuyến với bạn bè.
 - 🧙 Tạo AI kể chuyện để dẫn dắt buổi chơi nhập vai kỳ ảo.
 
-![module 1](/images/2-module1/module1.webp)
+![module 1](/images/2-module1/module1.webp?width=90pc)
 
 Thông qua việc xây dựng và chơi với các ứng dụng trên PartyRock, bạn sẽ học được các kỹ thuật quan trọng như:
 - 🧩 Hiểu cách mô hình nền phản hồi các prompt
@@ -36,7 +36,7 @@ Thông qua việc xây dựng và chơi với các ứng dụng trên PartyRock,
 
 Chúng ta sẽ xây dựng một ứng dụng gợi ý sách dựa trên tâm trạng của bạn.
 
-![module 1](/images/2-module1/module1.webp)
+![module 1](/images/2-module1/module1.webp?width=90pc)
 
 #### 🔧 Các bước thực hiện:
 1. Truy cập [PartyRock website](https://partyrock.aws/)
@@ -112,3 +112,4 @@ Khi có phản hồi thú vị hoặc hài hước:
 
 PartyRock cho phép bạn khám phá và tạo nguyên mẫu ý tưởng Generative AI một cách nhanh chóng.  
 Để xây dựng ứng dụng sẵn sàng cho sản xuất, bạn có thể hiện thực hoá ý tưởng bằng **Amazon Bedrock**.
+

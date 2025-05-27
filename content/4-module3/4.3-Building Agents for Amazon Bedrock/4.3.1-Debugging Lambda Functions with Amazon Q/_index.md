@@ -54,7 +54,7 @@ You'll likely encounter an error because some dependencies are missing. Don’t 
 
 3. Follow Amazon Q’s instructions to integrate the **Pandas Lambda Layer**.
 
-![debug1.png](/images/4-module3/debug1.png)
+![debug1.png](/images/4-module3/debug1.png?width=90pc)
 
 ---
 
@@ -65,7 +65,7 @@ While the Amazon Q chat is helpful for general AWS questions, for more specific 
 1. In the Lambda Console, under the **Test** tab, run the test again by clicking **Test**.
 2. When the new error appears, click the **Troubleshoot with Amazon Q** button.
 
-![debug2.png](/images/4-module3/debug2.png)
+![debug2.png](/images/4-module3/debug2.png?width=90pc)
 
 3. Click **Help me resolve** to prompt Q for a solution.
 4. Follow Q’s suggestions to:
@@ -73,7 +73,7 @@ While the Amazon Q chat is helpful for general AWS questions, for more specific 
      - The file should be: `clickstream_data.csv`
    - Fix other potential code issues with Q’s assistance.
 
-![debug3.png](/images/4-module3/debug3.png)
+![debug3.png](/images/4-module3/debug3.png?width=90pc)
 
 ---
 
@@ -83,7 +83,7 @@ While the Amazon Q chat is helpful for general AWS questions, for more specific 
 - Continue using **Troubleshoot with Q** for each subsequent error until your Lambda runs without issues.
 - A successful run will return accurate data processing results and no errors.
 
-![debug4.png](/images/4-module3/debug4.png)
+![debug4.png](/images/4-module3/debug4.png?width=90pc)
 
 ---
 
@@ -164,4 +164,5 @@ Once the Lambda function is fixed, go back to the Agent and test it again by ask
 
 This time, the Agent will be able to provide the correct answer. You can also view the **trace** to see how the Agent "thought" through the process to generate the correct response.
 
-![debug5.png](/images/4-module3/debug5.png)
+![debug5.png](/images/4-module3/debug5.png?width=90pc)
+

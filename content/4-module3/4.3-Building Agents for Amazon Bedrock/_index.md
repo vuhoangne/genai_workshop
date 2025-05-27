@@ -30,7 +30,7 @@ In this module, we'll create an **AWS Solutions Architect Agent** that uses our 
 
 - Click **Save** at the top.
 
-![agents](/images/4-module3/agents.png)
+![agents](/images/4-module3/agents.png?width=90pc)
 
 ---
 
@@ -51,7 +51,7 @@ To create it:
      - Select the file `agent_bedrock_schema.json`
      - Click **Choose**, then click **Create**
 
-![agents](/images/4-module3/agents1.png)
+![agents](/images/4-module3/agents1.png?width=90pc)
 
 ---
 
@@ -67,7 +67,7 @@ Now we'll add the **Knowledge Base** we created earlier.
 
 4. Click **Add** to finish.
 
-![agents](/images/4-module3/agents2.png)
+![agents](/images/4-module3/agents2.png?width=90pc)
 
 ---
 
@@ -84,15 +84,16 @@ For example:
 
 Once the Agent replies, click **Show trace** to see the steps it followed to generate the answer.
 
-![agents](/images/4-module3/agents3.png)
+![agents](/images/4-module3/agents3.png?width=90pc)
 
 You can also test the record-reading action by asking:
 
 - `Can you help with the data processing task of getting the number of records in the production database?`
 
-![agents](/images/4-module3/agents4.png)
+![agents](/images/4-module3/agents4.png?width=90pc)
 
 ---
 {{% notice info %}}
 ⚠️ It looks like we hit an error. No worries—this was intentional, and we'll fix it in the next section using **Amazon Q** to debug the function.
 {{% /notice %}}
+

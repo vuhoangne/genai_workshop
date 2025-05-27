@@ -48,7 +48,7 @@ Trước khi bắt đầu sử dụng Amazon Bedrock, bạn cần **cấp quyề
 
 4. Nhấn **Request model access** để yêu cầu kích hoạt các mô hình
 
-![module2](/images/3-module2/module3.png)
+![module2](/images/3-module2/module3.png?width=90pc)
 
 ---
 
@@ -67,3 +67,4 @@ Trước khi bắt đầu sử dụng Amazon Bedrock, bạn cần **cấp quyề
 {{% notice info %}}
 Bạn đã cấu hình thành công **Amazon Bedrock**!
 {{% /notice %}}
+

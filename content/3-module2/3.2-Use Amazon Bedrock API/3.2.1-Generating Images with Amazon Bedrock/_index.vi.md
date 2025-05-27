@@ -41,7 +41,7 @@ Xây dựng ứng dụng cho phép người dùng:
 
 Ứng dụng cuối cùng sẽ như sau: **Gen Image App**
 
-![genimage](/images/3-module2/imagegen1.png)
+![genimage](/images/3-module2/imagegen1.png?width=90pc)
 
 ### 🧱 Bắt Đầu
 
@@ -65,7 +65,7 @@ Can you add the following to my application:
 4. The image return will be a base64 string; use the standalone function to convert it to an image that can be displayed in Streamlit. 
 ```
 
-![genimage](/images/3-module2/gen1.png)
+![genimage](/images/3-module2/gen1.png?width=90pc)
 
 Amazon Q Developer sẽ xử lý yêu cầu và cung cấp mã được cập nhật cho tệp.
 
@@ -79,7 +79,7 @@ Amazon Q Developer sẽ xử lý yêu cầu và cung cấp mã được cập nh
 
 Q Developer sẽ trả lại giải thích chi tiết về mã.
 
-![genimage](/images/3-module2/gen2.png)
+![genimage](/images/3-module2/gen2.png?width=90pc)
 
 ---
 
@@ -109,7 +109,7 @@ streamlit run image_examples/image_gen_st.py
 Trong bài tập tiếp theo, chúng ta sẽ **chỉnh sửa hình ảnh bằng một lời nhắc (prompt)**.  
 📌 Bạn có thể lưu lại một trong các hình ảnh đã tạo trước đó hoặc sử dụng hình ảnh bên dưới để thực hành.
 
-![genimage](/images/3-module2/cat_water_4.png)
+![genimage](/images/3-module2/cat_water_4.png?width=90pc)
 
 ---
 
@@ -138,7 +138,7 @@ image_examples/image_to_image_st.py
 - 📤 `Thêm thành phần để người dùng tải ảnh lên`
 - 🧠 `Thêm ô nhập lời nhắc (prompt) để người dùng yêu cầu chỉnh sửa ảnh`
 
-![genimage](/images/3-module2/code.png)
+![genimage](/images/3-module2/code.png?width=90pc)
 
 ---
 
@@ -156,7 +156,7 @@ image_examples/image_to_image_st.py
 
 {{% /notice %}}
 
-![genimage](/images/3-module2/cat_mane.png)
+![genimage](/images/3-module2/cat_mane.png?width=90pc)
 
 ---
 
@@ -241,7 +241,7 @@ Amazon Q Developer sẽ:
 full_code/image_understanding_st_full.py
 ```
 
-![genimage](/images/3-module2/code2.png)
+![genimage](/images/3-module2/code2.png?width=90pc)
 
 ---
 
@@ -257,7 +257,7 @@ streamlit run image_examples/image_understanding_st.py
 
 📌 Nhấn nút bạn đã tạo và thử với các ảnh khác nhau!
 
-![genimage](/images/3-module2/imagegen2.png)
+![genimage](/images/3-module2/imagegen2.png?width=90pc)
 
 ---
 
@@ -265,3 +265,4 @@ streamlit run image_examples/image_understanding_st.py
 
 🎉 Giờ bạn đã biết cách sử dụng **Amazon Bedrock** để tạo và chỉnh sửa ảnh.  
 🚀 Tiếp theo, chúng ta sẽ khám phá cách dùng công cụ này cho các tác vụ **tạo văn bản**!
+

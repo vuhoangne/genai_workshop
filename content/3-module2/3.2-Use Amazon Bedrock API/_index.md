@@ -9,4 +9,4 @@ In this section, we will learn how to use the Amazon Bedrock API to generate tex
 
 **Amazon Q** is a generative AI assistant that works where you work—whether in your IDE or the AWS Console. Amazon Q can help write code, troubleshoot issues, and provide relevant resources.
 
-![bedrock](/images/3-module2/bedrock.png)
+![bedrock](/images/3-module2/bedrock.png?width=90pc)

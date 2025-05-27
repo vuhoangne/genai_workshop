@@ -22,7 +22,7 @@ In this module, we'll explore how to use **Amazon Bedrock** [Converse API](https
 📝 To start, we will be updating a script to run the text generation examples. Inside your Visual Studio Code IDE, open the file:  
 `text_examples/gen_text.py`
 
-![genimage](/images/3-module2/text1.png)
+![genimage](/images/3-module2/text1.png?width=90pc)
 
 🔧 Here we have code to invoke the different models, but we are missing logic to make the code functional. This is where we can leverage **Amazon Q Developer** to turn our ideas into workable code.
 
@@ -48,7 +48,7 @@ In this module, we'll explore how to use **Amazon Bedrock** [Converse API](https
 python3 text_examples/gen_text.py
 ```
 
-![genimage](/images/3-module2/text2.png)
+![genimage](/images/3-module2/text2.png?width=90pc)
 
 📄 The text you’ll be working with is on line 113.
 
@@ -65,7 +65,7 @@ python3 text_examples/gen_text.py
 python3 text_examples/gen_text.py
 ```
 
-![genimage](/images/3-module2/text3.png)
+![genimage](/images/3-module2/text3.png?width=90pc)
 
 ✅ Wrap Up
 🎉 Now that you have gotten a taste of using Amazon Bedrock for processing text, let’s explore how we can use it for video tasks next!

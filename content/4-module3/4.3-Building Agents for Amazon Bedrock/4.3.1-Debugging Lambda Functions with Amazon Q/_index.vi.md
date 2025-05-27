@@ -55,7 +55,7 @@ Lần chạy đầu tiên có thể bị lỗi do thiếu các thư viện cần
 
 3. Làm theo hướng dẫn của Q để tích hợp **Lambda Layer có sẵn chứa thư viện Pandas**.
 
-![debug1.png](/images/4-module3/debug1.png)
+![debug1.png](/images/4-module3/debug1.png?width=90pc)
 
 ---
 
@@ -66,7 +66,7 @@ Ngoài cửa sổ trò chuyện, bạn có thể sử dụng chức năng **Trou
 1. Trong bảng điều khiển Lambda, ở tab **Test**, nhấn **Test** để chạy lại hàm.
 2. Khi lỗi mới xuất hiện, nhấn nút **Troubleshoot with Amazon Q**.
 
-![debug2.png](/images/4-module3/debug2.png)
+![debug2.png](/images/4-module3/debug2.png?width=90pc)
 
 3. Nhấn **Help me resolve** để nhờ Q đưa ra giải pháp.
 4. Làm theo các đề xuất của Q như:
@@ -74,7 +74,7 @@ Ngoài cửa sổ trò chuyện, bạn có thể sử dụng chức năng **Trou
      - Tên tệp nên là: `clickstream_data.csv`
    - Sửa các lỗi logic khác trong mã nếu có, dưới sự hướng dẫn của Q.
 
-![debug3.png](/images/4-module3/debug3.png)
+![debug3.png](/images/4-module3/debug3.png?width=90pc)
 
 ---
 
@@ -84,7 +84,7 @@ Ngoài cửa sổ trò chuyện, bạn có thể sử dụng chức năng **Trou
 - Tiếp tục sử dụng **Troubleshoot with Q** cho từng lỗi nếu vẫn còn phát sinh.
 - Khi chạy thành công, hàm sẽ trả về kết quả xử lý dữ liệu chính xác và không có lỗi.
 
-![debug4.png](/images/4-module3/debug4.png)
+![debug4.png](/images/4-module3/debug4.png?width=90pc)
 
 ---
 
@@ -164,4 +164,4 @@ Khi hàm Lambda đã được sửa, quay lại Agent và hỏi lại:
 
 Lần này, Agent sẽ trả lời chính xác. Bạn cũng có thể xem **trace** để theo dõi cách Agent "suy nghĩ" qua các bước để tạo ra câu trả lời chính xác.
 
-![debug5.png](/images/4-module3/debug5.png)
+![debug5.png](/images/4-module3/debug5.png?width=90pc)

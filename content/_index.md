@@ -6,7 +6,7 @@ chapter: false
 
 # 🧠 Overview: Workshop - Building with Generative AI on AWS using PartyRock, Amazon Bedrock, and Amazon Q
 
-![picture](/images/genaipicture.png)
+![picture](/images/genaipicture.png?width=90pc)
 
 ## 🔍 Introduction
 

@@ -21,27 +21,27 @@ In this module, we'll create a Knowledge Base using a portion of the [AWS Well-A
 
 1. Access the [Knowledge Base Console](https://us-west-2.console.aws.amazon.com/bedrock/home?region=us-west-2#/knowledge-bases).
 
-![Create](/images/4-module3/create.png)
+![Create](/images/4-module3/create.png?width=90pc)
 
 2. Click the **Create** button (orange) and select **Knowledge Base with vector store**.
 
-![Create](/images/4-module3/create1.png)
+![Create](/images/4-module3/create1.png?width=90pc)
 
 3. Use the default name or enter a custom name → Click **Next**.
 
-![Create](/images/4-module3/create2.png)
+![Create](/images/4-module3/create2.png?width=90pc)
 
 4. Click **Browse S3**, select the bucket with a name containing **awsdocsbucket** → Click **Next**.
 
-![Create](/images/4-module3/create3.png)
+![Create](/images/4-module3/create3.png?width=90pc)
 
 5. Select **Titan Embeddings V2** as the embedding model → Keep the default Vector store → Click **Next**.
 
-![Create](/images/4-module3/create4.png)
+![Create](/images/4-module3/create4.png?width=90pc)
 
 6. Scroll down and select **Create Knowledge Base**.
 
-![Create](/images/4-module3/create5.png)
+![Create](/images/4-module3/create5.png?width=90pc)
 
 > ⏳ Creating a Knowledge Base takes a few minutes. Don't leave this page.
 
@@ -55,7 +55,7 @@ When your Knowledge Base is ready, you can test it directly in the console inter
 
 1. Click **Sync** to synchronize the data (takes about 1 minute).
 
-![Sync](/images/4-module3/sync.png)
+![Sync](/images/4-module3/sync.png?width=90pc)
 
 2. Click **Select Model**, choose **Amazon Nova Pro** → Click **Apply**.
 3. Enter a question in the **Enter your message here** box, for example:
@@ -64,7 +64,7 @@ When your Knowledge Base is ready, you can test it directly in the console inter
 
 > 🧠 Try different questions to explore further!
 
-![test](/images/4-module3/test2.png)
+![test](/images/4-module3/test2.png?width=90pc)
 
 ---
 
@@ -80,7 +80,7 @@ You can also query via API with 2 methods:
 1. Open the `rag_examples/kb_rag.py` file in your IDE.
 2. Update the `KB_ID` variable with your Knowledge Base ID (found in the Overview section).
 
-![test](/images/4-module3/test3.png)
+![test](/images/4-module3/test3.png?width=90pc)
 
 3. Run the command:
 
@@ -91,10 +91,11 @@ python3 rag_examples/kb_rag.py
 
 > ✅ The code is executing the RAG process: converting the question to an embedding, retrieving relevant documents, and answering with the model.
 
-![test](/images/4-module3/test4.png)
+![test](/images/4-module3/test4.png?width=90pc)
 
 ---
 
 ## 🎯 Wrap up
 
 After creating a Knowledge Base, the next step will be **embedding this Knowledge Base into an Amazon Bedrock Agent** to build a more intelligent automated response system.
+

@@ -64,3 +64,4 @@ pre: " <b> 6. </b> "
 2. Tại trang **Stacks**, chọn stack: `gen-ai-workshop-cfn`.
 3. Trong phần chi tiết, chọn **Delete**.
 4. Xác nhận bằng cách chọn **Delete stack** khi được yêu cầu.
+

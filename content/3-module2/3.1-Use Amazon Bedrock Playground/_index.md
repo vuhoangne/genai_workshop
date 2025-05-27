@@ -22,17 +22,17 @@ Here are some examples you can try in each playground:
 
 1. In **Amazon Bedrock**, choose:
 - Select **Chat / Text** under **Playgrounds**.
-![chat](/images/3-module2/chat.png)
+![chat](/images/3-module2/chat.png?width=90pc)
 - Click **Select model**.
 - Choose **Amazon Nova Pro**.
 - Click **Apply**.
-![chat](/images/3-module2/chat1.png)
+![chat](/images/3-module2/chat1.png?width=90pc)
 
 2. Try the following system prompt:
 - `You are an expert AWS Solutions Architect that helps customers create scalable, cost-efficient solutions on AWS`
 - `How can I create a 3-tier web app on AWS?`
 
-![chat](/images/3-module2/chat2.png)
+![chat](/images/3-module2/chat2.png?width=90pc)
 
 3. The sidebar contains model configuration options you can customize. Try changing the **temperature** to `1` to make the model more creative in its responses.
 
@@ -42,11 +42,11 @@ Here are some examples you can try in each playground:
 
 1. In **Amazon Bedrock**, choose:
 - Select **Image / Canvas** under **Playgrounds**.
-![chat](/images/3-module2/image.png)
+![chat](/images/3-module2/image.png?width=90pc)
 - Click **Select model**.
 - Choose **Amazon Nova Canvas**.
 - Click **Apply**.
-![chat](/images/3-module2/image1.png)
+![chat](/images/3-module2/image1.png?width=90pc)
 
 2. Try the following prompts:
 - `unicorns in a magical forest. Lots of trees and animals around. The mood is bright, and there is lots of natural lighting`  
@@ -54,7 +54,7 @@ Here are some examples you can try in each playground:
 
 🧠 Amazon Bedrock will generate images based on the descriptions you provide.
 
-![chat](/images/3-module2/image2.png)
+![chat](/images/3-module2/image2.png?width=90pc)
 
 ---
 
@@ -67,10 +67,11 @@ With **Nova Canvas**, you can perform actions such as:
 
 Try running one of these actions on an image you've created.
 
-![chat](/images/3-module2/remove.png)
+![chat](/images/3-module2/remove.png?width=90pc)
 
 ---
 
 ## 🚀 Next Steps
 
 Once you're done experimenting, let’s explore how we can bring the power of **Amazon Bedrock** into real-world applications using the **API**.
+

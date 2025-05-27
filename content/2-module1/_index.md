@@ -16,7 +16,7 @@ pre: " <b> 2. </b> "
 - 🎮 Create and play a virtual trivia game online with friends.
 - 🧙 Create an AI storyteller to guide your next fantasy roleplaying campaign.
 
-![module 1](/images/2-module1/module1.webp)
+![module 1](/images/2-module1/module1.webp?width=90pc)
 
 By building and playing with PartyRock apps, you’ll learn key techniques for using Generative AI, such as:
 - 🧩 Understanding how foundation models respond to prompts
@@ -36,7 +36,7 @@ By building and playing with PartyRock apps, you’ll learn key techniques for u
 
 Let’s build an app that recommends books based on your mood.
 
-![module 1](/images/2-module1/module1.webp)
+![module 1](/images/2-module1/module1.webp?width=90pc)
 
 #### 🔧 Steps:
 1. Go to the [PartyRock website](https://partyrock.aws/)
@@ -112,3 +112,4 @@ If you get a funny or interesting response:
 
 PartyRock lets you explore and prototype Generative AI ideas quickly.  
 For production-ready apps, you can take your ideas and implement them using **Amazon Bedrock**.
+

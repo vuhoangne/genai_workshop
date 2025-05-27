@@ -20,17 +20,17 @@ Sau đây là một số ví dụ bạn có thể thử ở mỗi sân chơi
 
 1. Trong **Amazon Bedrock**, chọn : 
 - Chọn **Chat / Text** trong **Playgrounds**.
-![chat](/images/3-module2/chat.png)
+![chat](/images/3-module2/chat.png?width=90pc)
 - Chọn **Select model**.
 - Chọn **Amazon Nova Pro**. 
 - Chọn **Apply**.
-![chat](/images/3-module2/chat1.png)
+![chat](/images/3-module2/chat1.png?width=90pc)
 
 2. Thử lời nhắc hệ thống sau:  
 - `You an expert AWS Solutions architect that helps customers create scalable cost efficient solutions on AWS`
 - `How can I create a 3 tier web app on AWS?`
 
-![chat](/images/3-module2/chat2.png)
+![chat](/images/3-module2/chat2.png?width=90pc)
 
 
 3. Thanh bên có các cấu hình mô hình mà bạn có thể tùy chỉnh. Thử thay đổi **temperature** thành `1` để mô hình trở nên sáng tạo hơn trong phản hồi.
@@ -41,11 +41,11 @@ Sau đây là một số ví dụ bạn có thể thử ở mỗi sân chơi
 
 1. Trong **Amazon Bedrock**, chọn : 
 - Chọn **Image / Canvas** trong **Playgrounds**.
-![chat](/images/3-module2/image.png)
+![chat](/images/3-module2/image.png?width=90pc)
 - Chọn **Select model**.
 - Chọn **Amazon Nova Canvas**. 
 - Chọn **Apply**.
-![chat](/images/3-module2/image1.png)
+![chat](/images/3-module2/image1.png?width=90pc)
 
 2. Thử một số lời nhắc sau:  
 -  `unicorns in a magical forest. Lots of trees and animals around. The mood is bright, and there is lots of natural lighting`  
@@ -53,7 +53,7 @@ Sau đây là một số ví dụ bạn có thể thử ở mỗi sân chơi
 
 🧠 Amazon Bedrock sẽ tạo ra hình ảnh dựa trên nội dung bạn mô tả.
 
-![chat](/images/3-module2/image2.png)
+![chat](/images/3-module2/image2.png?width=90pc)
 
 ---
 
@@ -66,10 +66,11 @@ Với **Nova Canvas**, bạn có thể thực hiện các hành động như:
 
 Hãy thử chạy một trong các hành động này với hình ảnh bạn đã tạo.
 
-![chat](/images/3-module2/remove.png)
+![chat](/images/3-module2/remove.png?width=90pc)
 
 ---
 
 ## 🚀 Tiếp theo
 
 Khi hoàn tất phần thử nghiệm, hãy xem cách chúng ta có thể đưa sức mạnh của **Amazon Bedrock** vào các ứng dụng thực tế bằng cách sử dụng **API**.
+
