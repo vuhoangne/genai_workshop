@@ -1,6 +1,6 @@
 # 🧠 Workshop: Xây dựng ứng dụng Generative AI trên AWS 🚀
 
-![Banner](/images/genaipicture.png?width=90pc)
+![banner](/images/genaipicture.png)
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://vuhoangne.github.io/genai_workshop/)
 [![Hugo](https://img.shields.io/badge/Hugo-0.128.0-blue)](https://gohugo.io/)
