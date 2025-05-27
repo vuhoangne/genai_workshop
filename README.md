@@ -23,14 +23,20 @@ Workshop này cung cấp hướng dẫn toàn diện về cách xây dựng các
 ## 🗂️ Nội dung Workshop
 
 1. **Giới thiệu**: Tổng quan về Generative AI và các công nghệ AWS
-2. **Module 1**: Xây dựng ứng dụng Generative AI với PartyRock
-3. **Module 2**: Tìm hiểu về Prompt Engineering
-4. **Module 3**: Retrieval Augmented Generation (RAG) với Amazon Bedrock
-   - Retrieval Augmented Generation
-   - Sử dụng Amazon Bedrock Knowledge Bases
-   - Xây dựng Agents cho Amazon Bedrock
-5. **Module 4**: Ứng dụng Generative AI trong thực tế
-6. **Dọn dẹp tài nguyên**: Hướng dẫn xóa tài nguyên để tránh phát sinh chi phí
+2. **Module 1**: Build Generative AI Applications with PartyRock
+3. **Module 2**: Use Foundation Models in Amazon Bedrock
+   - Use Amazon Bedrock Playground
+   - Use Amazon Bedrock API
+     - Using Amazon Bedrock API to Generate Images with Amazon Nova Canvas
+     - Generating Text with Amazon Bedrock
+     - Understanding Video with Amazon Bedrock
+4. **Module 3**: Chat with your Documents
+   - Retrieval Augmented Generation with Amazon Bedrock
+   - Using Amazon Bedrock Knowledge Bases
+   - Building Agents for Amazon Bedrock
+     - Debugging Lambda Functions with Amazon Q
+     - Agents API
+5. **Dọn dẹp tài nguyên**: Hướng dẫn xóa tài nguyên để tránh phát sinh chi phí
 
 ## 🚀 Truy cập Workshop
 
